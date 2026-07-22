@@ -1,1 +1,0 @@
-1) normalizer les inputs ?
